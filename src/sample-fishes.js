@@ -42,7 +42,7 @@ module.exports = {
 
   fish6: {
     name: 'Atlantic Salmon',
-    image: 'http://i.istockimg.com/file_thumbview_approve/56241842/5/stock-photo-56241842-salmon-fish.jpg',
+    image: 'https://i.pinimg.com/originals/a5/07/f1/a507f132f9396ce325e22753e4227a97.jpg',
     desc: 'This flaky, oily salmon is truly the king of the sea. Bake it, grill it, broil it...as good as it gets!',
     price: 1453,
     status: 'available'
@@ -50,7 +50,7 @@ module.exports = {
 
   fish7: {
     name: 'Oysters',
-    image: 'http://i.istockimg.com/file_thumbview_approve/58626682/5/stock-photo-58626682-fresh-oysters-on-a-black-stone-plate-top-view.jpg',
+    image: 'http://cdn.jamieoliver.com/recipe-database/oldImages/xtra_med/725_1_1434097907.jpg',
     desc: 'A soft plump oyster with a sweet salty flavor and a clean finish.',
     price: 2543,
     status: 'available'
@@ -58,7 +58,7 @@ module.exports = {
 
   fish8: {
     name: 'Mussels',
-    image: 'http://i.istockimg.com/file_thumbview_approve/40450406/5/stock-photo-40450406-steamed-mussels.jpg',
+    image: 'http://www.seriouseats.com/images/2014/10/20141026-mussels-how-to-food-lab-18.jpg',
     desc: 'The best mussels from the Pacific Northwest with a full-flavored and complex taste.',
     price: 425,
     status: 'available'
